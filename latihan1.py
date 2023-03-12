@@ -1,1 +1,0 @@
-print("Akila yasudah")
